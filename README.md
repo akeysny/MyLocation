@@ -12,4 +12,4 @@ MyLocation is an app that allows users to get and show location on the map in th
 <img src="http://g.recordit.co/KkZPw7NVDa.gif" width=250><br>
 
 ### Notes
-May take ahile to update location on the simulator.
+May take awhile to update location on the simulator.
